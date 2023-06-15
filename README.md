@@ -1,4 +1,4 @@
-# Modélisation d'une base de Données pour la gestion de l'agence de transport routier IUC Express
+# Modélisation d'une Base de Données pour la gestion de l'agence de transport routier IUC Express
   Le fichier PDF contient le projet détaillé et le fichier SQL le code qui génère la base de données.
 
 ## Objectif
